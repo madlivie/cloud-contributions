@@ -1,0 +1,22 @@
+Medium Contributions
+
+- Habilidades esenciales de Google Cloud: Laboratorio de desafíos ☁️
+https://medium.com/gdg-ipn/google-cloud-essential-skills-challenge-lab-%EF%B8%8F-8f48d3656d5
+
+- Implementar una instancia informática con una secuencia de comandos de inicio remoto ☁️
+https://medium.com/gdg-ipn/deploy-a-compute-instance-with-a-remote-startup-script-%EF%B8%8F-1b08d9d799f6
+
+- Configurar un firewall y un script de inicio con Deployment Manager ☁️
+https://medium.com/gdg-ipn/configure-a-firewall-and-a-startup-script-with-deployment-manager-7a55d6fc4e56
+
+- Configurar Secure RDP usando un Windows Bastion Host ☁️
+https://medium.com/gdg-ipn/configure-secure-rdp-using-a-windows-bastion-host-5827fc2e1c38
+
+- Crea e implementa una imagen de Docker en un clúster de Kubernetes ☁️
+https://medium.com/@madlivie/build-and-deploy-a-docker-image-to-a-kubernetes-cluster-589f036b2848
+
+- Escalamiento horizontal y actualización de una aplicación en contenedores en un clúster de Kubernetes☁️
+https://medium.com/gdg-ipn/scale-out-and-update-a-containerized-application-on-a-kubernetes-cluster-3420eb367750
+
+- Migrate a MySQL Database to Google Cloud SQL ☁️
+https://medium.com/@madlivie/migrate-a-mysql-database-to-google-cloud-sql-%EF%B8%8F-10868facdbb1

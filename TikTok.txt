@@ -1,0 +1,34 @@
+TikTok Contributions
+
+- Cloud Computing
+https://www.tiktok.com/@madlivie/video/7059544562192239878?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- ¿Qué es el Computo en la Nube?
+https://www.tiktok.com/@madlivie/video/7060202736322694405?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Tipos de Servicios en Cloud Computing
+https://www.tiktok.com/@madlivie/video/7061825628621851910?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Techno Tips
+https://www.tiktok.com/@madlivie/video/7094651551574134022?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Cómo comenzar a usar Google Cloud Platform
+https://www.tiktok.com/@madlivie/video/7098450941191425285?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Cómo comenzar en Cloud/DevOps
+https://www.tiktok.com/@madlivie/video/7096172293436542214?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Certificaciones Cloud Computing
+https://www.tiktok.com/@madlivie/video/7101053515757309189?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- ¿Qué es Devops?
+https://www.tiktok.com/@madlivie/video/7104071980697128198?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Devops LifeCycle
+https://www.tiktok.com/@madlivie/video/7111446302407265542?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Continous Integration
+https://www.tiktok.com/@madlivie/video/7112217636909387013?is_copy_url=1&is_from_webapp=v1&lang=es
+
+- Continous Delivery
+https://www.tiktok.com/@madlivie/video/7112915577508728070?is_copy_url=1&is_from_webapp=v1&lang=es
